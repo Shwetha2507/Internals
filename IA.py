@@ -1,1 +1,1 @@
-print("Devops lab")
+print("Devops Theory")
